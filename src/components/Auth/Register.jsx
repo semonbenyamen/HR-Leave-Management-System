@@ -1,4 +1,4 @@
-import style from "./register.module.css";
+import style from "./auth.module.css";
 
 function Register() {
     return (

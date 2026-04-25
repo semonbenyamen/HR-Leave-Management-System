@@ -1,5 +1,4 @@
-import style from "./Login.module.css";
-
+import style from "./auth.module.css";
 
 function Login() {
     return (
